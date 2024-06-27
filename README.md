@@ -1,2 +1,2 @@
 # javascript
-this is my repository for my journey while learning java script
+check my new branch from the branch section
